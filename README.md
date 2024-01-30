@@ -22,7 +22,7 @@ All the point clouds generated using the procedure will have the same coordinate
 
 <p align="center">
 <img src="assets/cameras.png" alt="Example Image" width="300" height="200"> <br>
-Caption: Capture the object in a dome like manner. (The Red camera symbols denote camera position)
+Caption: Capture the object in a dome like manner. (The Red symbols denote camera position)
 </p>
 
 ## Pipeline
